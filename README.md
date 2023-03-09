@@ -5,4 +5,4 @@
 ### Optimization : Yes / 200
 ### EVM version : MIT
 
-# Happy Ngetot
+# Happy Ngentot :)
